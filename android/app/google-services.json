@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062552723659",
+    "project_id": "csgo-tourney",
+    "storage_bucket": "csgo-tourney.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062552723659:android:0ab9a8506876eab9547b4e",
+        "android_client_info": {
+          "package_name": "dev.duocore.tournament_assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062552723659-hh40mmghl0br77tdc958cmjq0tgbntog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPj-rySFB8KkuEOvJ8yo9Vu1jWwIAYIrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062552723659-hh40mmghl0br77tdc958cmjq0tgbntog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
