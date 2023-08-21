@@ -29,6 +29,13 @@
             {
               "client_id": "1062552723659-hh40mmghl0br77tdc958cmjq0tgbntog.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "1062552723659-9fc9h87r3m1c9dr6630dps0jlcgk55nt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tournamentAssistant"
+              }
             }
           ]
         }
